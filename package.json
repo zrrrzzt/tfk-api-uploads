@@ -26,12 +26,12 @@
     "url": "git://github.com/zrrrzzt/tfk-api-uploads.git"
   },
   "dependencies": {
-    "hapi": "^9.0.3",
+    "hapi": "^15.2.0",
     "uuid": "^2.0.1"
   },
   "devDependencies": {
     "coveralls": "^2.11.4",
-    "standard": "^5.1.0",
-    "tap": "^1.3.2"
+    "standard": "^8.5.0",
+    "tap": "^8.0.0"
   }
 }
