@@ -30,7 +30,7 @@
     "uuid": "^3.0.0"
   },
   "devDependencies": {
-    "coveralls": "^2.11.4",
+    "coveralls": "^3.0.0",
     "standard": "^10.0.1",
     "tap": "^10.1.0"
   }
